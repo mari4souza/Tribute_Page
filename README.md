@@ -1,7 +1,4 @@
 # Página de Tributo / Tribute Page
-## Version: 1.0 
-
-...
 
 ## 🔹 Project description
 Desenvolvimento de uma página de tributo para a banda virtual Gorillaz. Um simples projeto desenvolvido para fixar os conceitos de HTML e CSS estudados.
