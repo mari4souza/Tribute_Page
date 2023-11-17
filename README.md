@@ -13,12 +13,12 @@ The page only features band presentation sessions, curiosities and song excerpts
 ## 📚 Languages, dependencies and libraries 
 HTML, CSS, Developed in Visual Studio Code IDE.
 
-
-## Developer:
-Maria Eduarda Cardoso de Souza, meduardacardoso.121@gmail.com.
-
+## Previews
 <img src=".github/preview-1.png" width="100%" />
 <img src=".github/preview-2.png" width="100%" />
+
+## Developer
+Maria Eduarda Cardoso de Souza, meduardacardoso.121@gmail.com.
 
 ## License
 The MIT License (MIT)
